@@ -17,3 +17,5 @@ Config
 *.xcworkspace
 *.DS_Store
 *.gitattributes
+# ignore all files in the x/ directory
+mesh/
