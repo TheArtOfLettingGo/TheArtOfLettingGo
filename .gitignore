@@ -20,3 +20,4 @@ Config
 # ignore all files in the mesh/ directory 
 # mesh/
 # This do work but with external actors it might not make sense to use. assets in levels will have a random name and locking them would not be possible. Assets within folders can be locked but accidentaly editing these files is less likely
+Content/FINAL (V17) WITH METADATA The Art of Letting Us Go ENG SUBS.mp4
